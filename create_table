@@ -1,0 +1,8 @@
+create table data (
+id text PRIMARY KEY,
+datetime text,
+txt TEXT,
+emdeding text,
+label integer,
+proba float
+);
